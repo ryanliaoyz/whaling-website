@@ -1,0 +1,34 @@
+* {
+    color: black;
+}
+
+.tTitle {
+    font-weight: 300;
+    font-size: 38px;
+    margin: 0px 0px 0px 0px;
+    line-height: 120%;
+    font-family: 'Open sans', sans-serif;
+    text-align: center;
+}
+
+.headline {
+    font-family: 'Linux Libertine', 'Georgia', 'Times', serif;
+    font-size: 25 px;
+    font-weight: lighter;
+}
+
+.sLine {
+    height: 1px;
+    width: 100%;
+    background: grey;
+    overflow: hidden;
+}
+
+.text {
+    font-family: 'Linux Libertine', 'Georgia', 'Times', serif;
+    font-size: 20 px;
+}
+
+p {
+    margin-left: -15px
+}
